@@ -55,5 +55,5 @@ New Updates Coming Soon!!!
 <br>
 <br>
 ***Preview***
-![image](https://user-images.githubusercontent.com/70408059/115292409-886d8580-a11b-11eb-968c-cf5e3c66e99a.png)
-
+<br>
+![image](https://user-images.githubusercontent.com/70408059/115292475-a2a76380-a11b-11eb-9dc8-a2e5df974b7e.png)
