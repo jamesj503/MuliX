@@ -47,3 +47,9 @@ New Updates Coming Soon!!!
 <br>
 Installation is the same as other versions, with the exception of the link, which will be https://skyward.allenisd.org/ :)
 <br>
+
+# Contact me:
+<br>
+My email is james.johnston@student.allenisd.org
+<br> 
+If you have questions, make sure to ask. Make the Subject line MULI (so I am more likely to see it)
