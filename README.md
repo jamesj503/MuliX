@@ -18,24 +18,6 @@ Here is a quick preview of a teacher/class page (all will have the same features
 **Some elements seen in this image are only in the V7BETA for now, soon enough they will be available.**
 <br>
 <br>
-
-# Download Instructions:
-<br>
-<br>
-I reccommend using <a href="https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld">this Chrome extension.</a> However, you can use any CSS or JS tool you want to (preferably a CSS tool since this is written in CSS, just to avoid issues). I find that this one works the best. (I use it to test my code!)
-<br>
-<br>
-After installing, all you need to do is copy my code from <a href="https://raw.githubusercontent.com/jamesj503/Muli/main/Muli.V5">the Github raw file,</a> over to the right-hand-side of the editor on the extension. After that, go up to the URL editor in the top middle and change it to https://canvas.allenisd.org/ and it will work on ALL canvas.allenisd pages (including your modules, grades, and teacher pages.)
-<br>
-<br>
-Before you press save, make sure:
-The URL is correct; the CSS code is on right side, not left; and don't forget to press save (top right corner)!
-<br>
-
-# Please see:
-For those intelligent people who can inject CSS files to a webpage without an extension, go to my latest release and download the .css file! You can also view my timeline and download the most recent (even if it is a pre-release!)
-<br>
-
 # What is coming up?
 Unjailbroken devices must install Chrome on their device to have this work. Follow the same steps as a computer! If you do not know what a jailbroken device is, this does not effect you!<br>
 **JAILBROKEN DEVICES ARE IN BETA V's CURRENTLY. SUBJECT TO CHANGE DEPENDING ON WHETHER I CAN FIX ISSUES OR NOT. CURRENT FURTHER DEV. FOR THIS IS ON HOLD.**
