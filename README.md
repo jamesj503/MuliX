@@ -19,5 +19,5 @@ Before you press save, make sure the extension page looks like this:
 <br>
 Here is a quick preview of the dashboard:
 ![image](https://user-images.githubusercontent.com/70408059/115287657-24948e00-a116-11eb-86bd-522d2ad83d25.png)
-^the colors are not editable for now, you can always manipulate the code, but I suggest you don't unless you know what you are doing. I will make more color styles! For now, this is it. 
+^the colors are not editable for now, you can always manipulate the code, but I suggest you don't unless you know what you are doing. I will make more color styles! For now, this is it. <br>
 **Some elements seen in this image are only in the V6BETA for now, soon enough they will be available.**
