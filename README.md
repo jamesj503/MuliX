@@ -1,4 +1,5 @@
 # Muli - A Canvas by Instructure CSS Element
+
 A website theme for Canvas by Instructure. Many schools use it, especially during COVID, and I thought it would be cool if I would make the layout and the overview less overwhelming!<br>
 My name is James Johnston. I love making websites my own by turning them into something I can personally say I made. Even though, no, I did not make Canvas, I like making it look less overwhelming and making it more user friendly. So say goodbye to harsh colors, harsh CAPS LOCK (on the "missing" badges) and say hello to Muli, The new style.<br>
 <br>
@@ -32,6 +33,18 @@ For those intelligent people who can inject CSS files to a webpage without an ex
 ![image](https://user-images.githubusercontent.com/70408059/115288551-2ad73a00-a117-11eb-8db3-e028417e2a3b.png)
 Download either of the ones in the red square!
 
-##What is coming up?
+# What is coming up?
 iPhone support / Android Support. Jailbroken devices will be supported if you can find the time to install this repo to your device lol. Unjailbroken devices must install Chrome on their device to have this work. Follow the same steps as a computer!
 **IN BETA V7 CURRENTLY. SUBJECT TO CHANGE DEPENDING ON WHETHER I CAN FIX ISSUES OR NOT. CURRENT FURTHER DEV. FOR THIS IS ON HOLD.**
+<br>
+<br>
+# MuliSky - A Skyward Inc. CSS Element
+<br>
+<br>
+Coming soon! Under development. Current Version: V1Alpha 
+<br>
+Download current here: 
+<a href="https://raw.githubusercontent.com/jamesj503/Muli/main/MuliSkyV1.A">MuliSky V1Alpha</a>
+<br>
+<br>
+New Updates Coming Soon!!!
