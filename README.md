@@ -1,6 +1,10 @@
 # Muli - A Canvas by Instructure CSS Element
 
-A website theme for Canvas by Instructure. Many schools use it, especially during COVID, and I thought it would be cool if I would make the layout and the overview less overwhelming!<br>
+Before I start, here are the [download instructions](https://github.com/jamesj503/Muli/wiki/How-to-Download) just so I don't have billions of emails asking how to download it.
+<br>
+<br>
+# What is Muli and MuliSky?
+Muli and MuliSky are website themes for Canvas by Instructure and Skyward. Many schools use it, especially during COVID, and I thought it would be cool if I would make the layout and the overview less overwhelming!<br>
 My name is James Johnston. I love making websites my own by turning them into something I can personally say I made. Even though, no, I did not make Canvas, I like making it look less overwhelming and making it more user friendly. So say goodbye to harsh colors, harsh CAPS LOCK (on the "missing" badges) and say hello to Muli, The new style.<br>
 <br>
 Using this is incredibly simple. It uses a Chrome extension to run the CSS and Ruff coding to make this website look cleaner. You can take a look at the Chrome extension and the reviews to make sure it is safe (which it is) and the code I make is never used to harvest your information. How can you be sure? CSS is a coding language that ONLY controls the part of the website you can view (like the dashboard and the modules) but never the code you can't. Because of this, the only code being executed will be changing colors and fonts.
