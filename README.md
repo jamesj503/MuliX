@@ -38,9 +38,10 @@ For those intelligent people who can inject CSS files to a webpage without an ex
 Download either of the ones in the red square!
 
 # What is coming up?
-iPhone support / Android Support. Jailbroken devices will be supported if you can find the time to install this repo to your device lol. Unjailbroken devices must install Chrome on their device to have this work. Follow the same steps as a computer!
-**IN BETA V7 CURRENTLY. SUBJECT TO CHANGE DEPENDING ON WHETHER I CAN FIX ISSUES OR NOT. CURRENT FURTHER DEV. FOR THIS IS ON HOLD.**
+Unjailbroken devices must install Chrome on their device to have this work. Follow the same steps as a computer!<br>
+**JAILBROKEN DEVICES ARE IN BETA V's CURRENTLY. SUBJECT TO CHANGE DEPENDING ON WHETHER I CAN FIX ISSUES OR NOT. CURRENT FURTHER DEV. FOR THIS IS ON HOLD.**
 <br>
+A new version of Muli will also control your Skyward page, for the first time ever!
 <br>
 # MuliSky - A Skyward Inc. CSS Element
 <br>
@@ -57,3 +58,8 @@ New Updates Coming Soon!!!
 ***Preview***
 <br>
 <a href="https://user-images.githubusercontent.com/70408059/115292475-a2a76380-a11b-11eb-9dc8-a2e5df974b7e.png">Click Here (.png file)</a>
+<br>
+Installation is the same as other versions, with the exception of the link> See below V.
+<br>
+![image](https://user-images.githubusercontent.com/70408059/115294305-121e5280-a11e-11eb-90d1-b1abb94ae9e0.png)
+
