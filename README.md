@@ -27,9 +27,8 @@ I reccommend using <a href="https://chrome.google.com/webstore/detail/user-javas
 After installing, all you need to do is copy my code from <a href="https://raw.githubusercontent.com/jamesj503/Muli/main/Muli.V5">the Github raw file,</a> over to the right-hand-side of the editor on the extension. After that, go up to the URL editor in the top middle and change it to https://canvas.allenisd.org/ and it will work on ALL canvas.allenisd pages (including your modules, grades, and teacher pages.)
 <br>
 <br>
-Before you press save, make sure the extension page looks like this:
-![image](https://user-images.githubusercontent.com/70408059/115287475-f020d200-a115-11eb-81d1-0fc3a0753904.png)
-^URL; CSS code on right side, not left; don't forget to save!
+Before you press save, make sure:
+The URL is correct; the CSS code is on right side, not left; and don't forget to press save (top right corner)!
 <br>
 <br>
 # Please see:
@@ -49,7 +48,7 @@ A new version of Muli will also control your Skyward page, for the first time ev
 Coming soon! Under development. Current Version: V1Alpha 
 <br>
 Download current here: 
-<a href="https://raw.githubusercontent.com/jamesj503/Muli/main/MuliSkyV1.A">MuliSky V1Alpha</a>
+<a href="https://raw.githubusercontent.com/jamesj503/Muli/main/MuliSkyV1.A">MuliSky V1Alpha.raw</a>
 <br>
 <br>
 New Updates Coming Soon!!!
