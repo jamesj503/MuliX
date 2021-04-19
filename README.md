@@ -32,12 +32,11 @@ The URL is correct; the CSS code is on right side, not left; and don't forget to
 <br>
 <br>
 # Please see:
-For those intelligent people who can inject CSS files to a webpage without an extension, go to my latest release and download the .css file!
-![image](https://user-images.githubusercontent.com/70408059/115288551-2ad73a00-a117-11eb-8db3-e028417e2a3b.png)
-Download either of the ones in the red square!
-
+For those intelligent people who can inject CSS files to a webpage without an extension, go to my latest release and download the .css file! You can also view my timeline and download the most recent (even if it is a pre-release!)
+<br>
+<br>
 # What is coming up?
-Unjailbroken devices must install Chrome on their device to have this work. Follow the same steps as a computer!<br>
+Unjailbroken devices must install Chrome on their device to have this work. Follow the same steps as a computer! If you do not know what a jailbroken device is, this does not effect you!<br>
 **JAILBROKEN DEVICES ARE IN BETA V's CURRENTLY. SUBJECT TO CHANGE DEPENDING ON WHETHER I CAN FIX ISSUES OR NOT. CURRENT FURTHER DEV. FOR THIS IS ON HOLD.**
 <br>
 A new version of Muli will also control your Skyward page, for the first time ever!
