@@ -6,17 +6,6 @@ My name is James Johnston. I love making websites my own by turning them into so
 Using this is incredibly simple. It uses a Chrome extension to run the CSS and Ruff coding to make this website look cleaner. You can take a look at the Chrome extension and the reviews to make sure it is safe (which it is) and the code I make is never used to harvest your information. How can you be sure? CSS is a coding language that ONLY controls the part of the website you can view (like the dashboard and the modules) but never the code you can't. Because of this, the only code being executed will be changing colors and fonts.
 <br>
 <br>
-I reccommend using <a href="https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld">this Chrome extension.</a> However, you can use any CSS or code-overwriter tool you want to. I find that this one works the best. (I use it to test my code!)
-<br>
-<br>
-After installing, all you need to do is copy my code from <a href="https://raw.githubusercontent.com/jamesj503/Muli/main/Muli.V5">the Github raw file,</a> over to the right-hand-side of the editor on the extension. After that, go up to the URL editor in the top middle and change it to https://canvas.allenisd.org/ and it will work on ALL canvas.allenisd pages (including your modules, grades, and teacher pages.)
-<br>
-<br>
-Before you press save, make sure the extension page looks like this:
-![image](https://user-images.githubusercontent.com/70408059/115287475-f020d200-a115-11eb-81d1-0fc3a0753904.png)
-^URL; CSS code on right side, not left; don't forget to save!
-<br>
-<br>
 <br>
 Here is a quick preview of the dashboard:
 ![image](https://user-images.githubusercontent.com/70408059/115287657-24948e00-a116-11eb-86bd-522d2ad83d25.png)
@@ -29,6 +18,21 @@ Here is a quick preview of a teacher/class page (all will have the same features
 **Some elements seen in this image are only in the V7BETA for now, soon enough they will be available.**
 <br>
 <br>
+# Download Instructions:
+<br>
+<br>
+I reccommend using <a href="https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld">this Chrome extension.</a> However, you can use any CSS or JS tool you want to (preferably a CSS tool since this is written in CSS, just to avoid issues). I find that this one works the best. (I use it to test my code!)
+<br>
+<br>
+After installing, all you need to do is copy my code from <a href="https://raw.githubusercontent.com/jamesj503/Muli/main/Muli.V5">the Github raw file,</a> over to the right-hand-side of the editor on the extension. After that, go up to the URL editor in the top middle and change it to https://canvas.allenisd.org/ and it will work on ALL canvas.allenisd pages (including your modules, grades, and teacher pages.)
+<br>
+<br>
+Before you press save, make sure the extension page looks like this:
+![image](https://user-images.githubusercontent.com/70408059/115287475-f020d200-a115-11eb-81d1-0fc3a0753904.png)
+^URL; CSS code on right side, not left; don't forget to save!
+<br>
+<br>
+# Please see:
 For those intelligent people who can inject CSS files to a webpage without an extension, go to my latest release and download the .css file!
 ![image](https://user-images.githubusercontent.com/70408059/115288551-2ad73a00-a117-11eb-8db3-e028417e2a3b.png)
 Download either of the ones in the red square!
@@ -48,3 +52,8 @@ Download current here:
 <br>
 <br>
 New Updates Coming Soon!!!
+<br>
+<br>
+***Preview***
+![image](https://user-images.githubusercontent.com/70408059/115292409-886d8580-a11b-11eb-968c-cf5e3c66e99a.png)
+
