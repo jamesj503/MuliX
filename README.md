@@ -8,4 +8,5 @@ Using this is incredibly simple. It uses a Chrome extension to run the CSS and R
 I reccommend using <a href="https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld">this Chrome extension.</a> However, you can use any CSS or code-overwriter tool you want to. I find that this one works the best. (I use it to test my code!)
 <br>
 <br>
-After installing, all you need to do is copy my code from <a href="https://github.com/jamesj503/Muli/blob/main/Muli.V5">the Github raw file </> over to the right-hand-side of the editor on the extension. After that, go up to the URL editor in the top middle and change it to https://canvas.allenisd.org/ and it will work on ALL canvas.allenisd pages (including your modules, grades, and teacher pages.)
+After installing, all you need to do is copy my code from 
+<a href="https://github.com/jamesj503/Muli/blob/main/Muli.V5">the Github raw file,</> over to the right-hand-side of the editor on the extension. After that, go up to the URL editor in the top middle and change it to https://canvas.allenisd.org/ and it will work on ALL canvas.allenisd pages (including your modules, grades, and teacher pages.)
