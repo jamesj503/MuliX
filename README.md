@@ -59,7 +59,4 @@ New Updates Coming Soon!!!
 <br>
 <a href="https://user-images.githubusercontent.com/70408059/115292475-a2a76380-a11b-11eb-9dc8-a2e5df974b7e.png">Click Here (.png file)</a>
 <br>
-Installation is the same as other versions, with the exception of the link> See below V.
-<br>
-![image](https://user-images.githubusercontent.com/70408059/115294305-121e5280-a11e-11eb-90d1-b1abb94ae9e0.png)
-
+Installation is the same as other versions, with the exception of the link, which will be https://skyward.allenisd.org/ :)
