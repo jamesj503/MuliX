@@ -21,7 +21,17 @@ Here is a quick preview of the dashboard:
 ![image](https://user-images.githubusercontent.com/70408059/115287657-24948e00-a116-11eb-86bd-522d2ad83d25.png)
 ^the colors are not editable for now, you can always manipulate the code, but I suggest you don't unless you know what you are doing. I will make more color styles! For now, this is it. <br>
 **Some elements seen in this image are only in the V6BETA for now, soon enough they will be available.**
-
+<br>
+<br>
+Here is a quick preview of a teacher/class page (all will have the same features):
+![image](https://user-images.githubusercontent.com/70408059/115288833-87d2f000-a117-11eb-8e7a-c248e50eadd2.png) <br>
+**Some elements seen in this image are only in the V6BETA for now, soon enough they will be available.**
+<br>
+<br>
 For those intelligent people who can inject CSS files to a webpage without an extension, go to my latest release and download the .css file!
 ![image](https://user-images.githubusercontent.com/70408059/115288551-2ad73a00-a117-11eb-8db3-e028417e2a3b.png)
 Download either of the ones in the red square!
+
+##What is coming up?
+iPhone support / Android Support. Jailbroken devices will be supported if you can find the time to install this repo to your device lol. Unjailbroken devices must install Chrome on their device to have this work. Follow the same steps as a computer!
+**IN BETA V6 CURRENTLY. SUBJECT TO CHANGE DEPENDING ON WHETHER I CAN FIX ISSUES OR NOT**
