@@ -1,6 +1,6 @@
-# Muli - A Canvas by Instructure CSS Element
+# Download Instructions
 
-Before I start, here are the [download instructions](https://github.com/jamesj503/Muli/wiki/How-to-Download) just so I don't have billions of emails asking how to download it.
+Before I start, here are the [download instructions for normal users (not devs)](https://github.com/jamesj503/Muli/wiki/How-to-Download) just so I don't have billions of emails asking how to download it. If you are a dev, go [here to download if you are a dev or are interested in becoming a dev](https://github.com/jamesj503/Muli/wiki/How-to-for-Devs)
 <br>
 <br>
 # What is Muli and MuliSky?
