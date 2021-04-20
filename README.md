@@ -26,7 +26,7 @@ Here is a quick preview of a teacher/class page (all will have the same features
 <br>
 # What is coming up?
 Unjailbroken devices must install Chrome on their device to have this work. Follow the same steps as a computer! If you do not know what a jailbroken device is, this does not effect you!<br>
-**JAILBROKEN DEVICES ARE IN BETA V's CURRENTLY. SUBJECT TO CHANGE DEPENDING ON WHETHER I CAN FIX ISSUES OR NOT. CURRENT FURTHER DEV. FOR THIS IS ON HOLD.**
+**JAILBROKEN DEVICES ARE IN BETA V's CURRENTLY. SUBJECT TO CHANGE DEPENDING ON WHETHER I CAN FIX ISSUES OR NOT. CURRENT FURTHER DEV. FOR THIS IS ON HOLD. HOWEVER THERE IS A CYDIA REPO THAT WILL HELP YOU USE THIS IF YOU NEED**
 <br>
 A new version of Muli will also control your Skyward page, for the first time ever!
 <br>
