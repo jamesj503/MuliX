@@ -8,7 +8,7 @@
 # Download Instructions
 
 <br>
-New Download instructions are needed for the Direct Inject. First, download the newest release. Then open the chrome extension (this download only works with [this chrome extension](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)) then go to the settings. Scroll over to the "settings" tab and scroll down to "Backup." Press "Upload and Apply". Find the file you just downloaded (it will be .json) and press ok. Then, a popup at the top of the screen will come up, press ok. (all it says it you will override your current update with the new one basically). Enjoy the new update!
+New Download instructions are needed for the Direct Inject. First, download the newest release. Then open the chrome extension (this download only works with (https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) this chrome extension) then go to the settings. Scroll over to the "settings" tab and scroll down to "Backup." Press "Upload and Apply". Find the file you just downloaded (it will be .json) and press ok. Then, a popup at the top of the screen will come up, press ok. (all it says it you will override your current update with the new one basically). Enjoy the new update!
 <br>
 <br>
 # What is Muli and MuliSky?
