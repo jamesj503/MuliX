@@ -1,6 +1,6 @@
 *We update Muli and MuliSky every 24 hours.<br>Issues are usually fixed within an hour.*
 <br>
-[*time until next update:*](https://free.timeanddate.com/countdown/i7rsd22n/n5704/cf12/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fn2/fs100/szw320/szh135/iso2021-04-21T08:50:10)
+[*time until next update*](https://free.timeanddate.com/countdown/i7rsd22n/n5704/cf12/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fn2/fs100/szw320/szh135/iso2021-04-21T08:50:10) (just click there :)
 
 <br>
 <br>
