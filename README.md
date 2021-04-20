@@ -1,4 +1,4 @@
-*We update Muli and MuliSky every 24 hours.*
+*We update Muli and MuliSky every 24 hours.<br>Issues are usually fixed within an hour.*
 <br>
 # Download Instructions
 
