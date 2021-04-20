@@ -7,7 +7,8 @@
 
 # Download Instructions
 
-Before I start, here are the [download instructions for normal users (not devs)](https://github.com/jamesj503/Muli/wiki/How-to-Download) just so I don't have billions of emails asking how to download it. If you are a dev, go [here to download if you are a dev or are interested in becoming a dev](https://github.com/jamesj503/Muli/wiki/How-to-for-Devs)
+<br>
+New Download instructions are needed for the Direct Inject. First, download the newest release. Then open the chrome extension (this download only works with [this chrome extension](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)) then go to the settings. Scroll over to the "settings" tab and scroll down to "Backup." Press "Upload and Apply". Find the file you just downloaded (it will be .json) and press ok. Then, a popup at the top of the screen will come up, press ok. (all it says it you will override your current update with the new one basically). Enjoy the new update!
 <br>
 <br>
 # What is Muli and MuliSky?
