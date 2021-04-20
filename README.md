@@ -1,4 +1,6 @@
-*We update Muli and MuliSky every 24 hours.<br>Issues are usually fixed within an hour. We update the latest release, we do not make a new one unless there are no issues with the previous one.*
+*We update Muli and MuliSky every 24 hours.<br>Issues are usually fixed within an hour. We update the latest release, we do not make a new one unless there are no issues with the previous one.*<br>
+**COMPATIBILITY WITH uBLOCK ORIGIN**<br>
+https://github.com/jamesj503/archive/releases/tag/MuliAdB
 <br>
 [*time until next major update*](https://free.timeanddate.com/countdown/i7rsdv5e/n5704/cf12/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatTime%20until%20Desktop%20App%20Release!/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2021-05-31T00:00:00) (just click there :)
 
