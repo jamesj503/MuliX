@@ -1,5 +1,10 @@
 *We update Muli and MuliSky every 24 hours.<br>Issues are usually fixed within an hour.*
 <br>
+*current versions:
+<br>
+Muli: V7
+<br>
+MuliSky: V2A
 # Download Instructions
 
 Before I start, here are the [download instructions for normal users (not devs)](https://github.com/jamesj503/Muli/wiki/How-to-Download) just so I don't have billions of emails asking how to download it. If you are a dev, go [here to download if you are a dev or are interested in becoming a dev](https://github.com/jamesj503/Muli/wiki/How-to-for-Devs)
