@@ -59,4 +59,4 @@ If you have questions, make sure to ask. Make the Subject line MULI (so I am mor
 
 # Why start on V5?
 <br>
-We didn't. Check out our original styles in our [old repo!](https://github.com/jamesj503/allenisd-canvas-css-styling) It includes more styles (that will not be updated as of right now.)
+We didn't. Check out our original styles in our old repo!(https://github.com/jamesj503/allenisd-canvas-css-styling) It includes more styles (that will not be updated as of right now.)
