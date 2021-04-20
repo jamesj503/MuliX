@@ -1,8 +1,12 @@
 *We update Muli and MuliSky every 24 hours.<br>Issues are usually fixed within an hour.*
 <br>
-*time until next update:* <br>
-<iframe src="https://free.timeanddate.com/countdown/i7rsd22n/n5704/cf12/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fn2/fs100/szw320/szh135/iso2021-04-21T08:50:10" allowtransparency="true" frameborder="0" width="93" height="28"></iframe>
+*time until next update:* 
 <br>
+
+<iframe src="https://free.timeanddate.com/countdown/i7rsd22n/n5704/cf12/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fn2/fs100/szw320/szh135/iso2021-04-21T08:50:10" allowtransparency="true" frameborder="0" width="93" height="28"></iframe>
+
+<br>
+
 # Download Instructions
 
 Before I start, here are the [download instructions for normal users (not devs)](https://github.com/jamesj503/Muli/wiki/How-to-Download) just so I don't have billions of emails asking how to download it. If you are a dev, go [here to download if you are a dev or are interested in becoming a dev](https://github.com/jamesj503/Muli/wiki/How-to-for-Devs)
