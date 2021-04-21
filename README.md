@@ -1,23 +1,32 @@
 # Welcome to Muli
 <br>
+
 This is the new [Muli.](https://github.com/jamesj503/Muli/releases/tag/Rel8%3BMuliV9-3) I think you will love this new update because so much has changed!
 <br>
+
 # What has Changed in the V8-3 Update?
 <br>
+
 Muli has updated the calendar and email page. These pages have taken a while to edit do to the amount of buttons and drop-downs. Please consider "starring" this repo for announcements on further changes.
 <br>
+
 # What is coming up?
 <br>
+
 We are excited to announce the upcoming [Desktop app](https://free.timeanddate.com/countdown/i7rsdv5e/n5704/cf12/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatTime%20until%20Desktop%20App%20Release!/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2021-05-31T00:00:00), which will allow the code to be injected to the website without a chrome extension! (This will be free)
 <br>
+
 # Download Instructions
 <br>
+
 Download the [latest release](https://github.com/jamesj503/Muli/releases/tag/Rel8%3BMuliV9-3) and save it to a convenient folder. Next, download [this](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) Chrome extension, it has to be this one because it's just an export file from the extension. After it installs, open it and press the cog icon on the top right of the pop-up. It will open up the "User JavaScript and CSS" page. Next, go to the fourth tab named "Settings". Next, scroll down to the backup tab. It should look like this:
 ![image](https://user-images.githubusercontent.com/70408059/115569121-8a9e2400-a282-11eb-8b24-f5a14af03302.png)
 Press the "upload and apply" button. This will open up your "file explorer" page. Locate the file you downloaded from my Github repo and select that. A popup arning you that it will override data will come up. Press "ok" and it should now work! 
 <br>
+
 # Troubleshooting
 <br>
+
 If this doesn't work, make sure both of the sliders are turned on. Let me show you how.
   -Open the extension.
   -Press the cog button.
