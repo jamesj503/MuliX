@@ -28,8 +28,8 @@ Press the "upload and apply" button. This will open up your "file explorer" page
 <br>
 
 If this doesn't work, make sure both of the sliders are turned on. Let me show you how.
-  -Open the extension.
-  -Press the cog button.
-  -Make sure you are on the "Sites" tab
+  -Open the extension. <br>
+  -Press the cog button. <br>
+  -Make sure you are on the "Sites" tab <br>
 ![image](https://user-images.githubusercontent.com/70408059/115569612-05673f00-a283-11eb-874d-3a49b7588eb0.png)
   -Make sure both the sliders are on (green) to turn Muli on!
