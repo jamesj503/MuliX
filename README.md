@@ -29,9 +29,14 @@ Press the "upload and apply" button. This will open up your "file explorer" page
 # Troubleshooting
 <br>
 
-If this doesn't work, make sure both of the sliders are turned on. Let me show you how. <br>
+Sliders: This is the most common issue, you need to make sure both of the sliders are turned on. Let me show you how. <br>
   -Open the extension. <br>
   -Press the cog button. <br>
   -Make sure you are on the "Sites" tab <br>
 ![image](https://user-images.githubusercontent.com/70408059/115569612-05673f00-a283-11eb-874d-3a49b7588eb0.png)
   -Make sure both the sliders are on (green) to turn Muli on!
+  <br>
+Wrong/Outdated Version: This is another common mistake. You may not have the correct version downloaded. I no longer update my main tree:
+![image](https://user-images.githubusercontent.com/70408059/115571154-5a578500-a284-11eb-8d53-162b81ca0baa.png)
+So if you got the code from there, it won't work because it is outdated. Go to the newest release and follow the [download instructions](https://github.com/jamesj503/Muli#download-instructions) and it should work. If you have an issue that isn't covered here, open an issue [here.](https://github.com/jamesj503/Muli/issues)<br>
+Thank you for using me! Have a nice day!
