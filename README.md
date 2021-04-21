@@ -5,7 +5,7 @@
 This is the new [Muli.](https://github.com/jamesj503/Muli/releases/tag/Rel8%3BMuliV9-3) I think you will love this new update because so much has changed!
 <br>
 
-# What has Changed in the V8-3 Update?
+# What has Changed in the V10-5 Update?
 <br>
 
 Muli has updated the calendar and email page. These pages have taken a while to edit do to the amount of buttons and drop-downs. Please consider "starring" this repo for announcements on further changes.
