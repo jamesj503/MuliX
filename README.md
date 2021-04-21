@@ -27,7 +27,7 @@ Press the "upload and apply" button. This will open up your "file explorer" page
 # Troubleshooting
 <br>
 
-If this doesn't work, make sure both of the sliders are turned on. Let me show you how.
+If this doesn't work, make sure both of the sliders are turned on. Let me show you how. <br>
   -Open the extension. <br>
   -Press the cog button. <br>
   -Make sure you are on the "Sites" tab <br>
