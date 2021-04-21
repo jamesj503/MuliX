@@ -2,7 +2,7 @@
 # Welcome to Muli
 <br>
 
-This is the new [Muli.](https://github.com/jamesj503/Muli/releases/tag/Rel8%3BMuliV9-3) I think you will love this new update because so much has changed!
+This is the new [Muli.](https://github.com/jamesj503/Muli/releases) I think you will love this new update because so much has changed!
 <br>
 
 # What has Changed in the V10-5 Update?
