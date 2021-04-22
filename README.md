@@ -5,7 +5,7 @@
 This is the new [Muli.](https://github.com/jamesj503/Muli/releases) I think you will love this new update because so much has changed!
 <br>
 
-# What has Changed in the V10-5 Update?
+# What has Changed in the V11-6 Update?
 <br>
 
 I have tried my best to work on the exam pages. They look cleaner now, the blue buttons are no longer there. Pull an issue if you find any, send the link, and screenshot! Thanks! Please consider "starring" this repo for announcements on further changes.
