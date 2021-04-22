@@ -14,7 +14,7 @@ I have tried my best to work on the exam pages. They look cleaner now, the blue 
 # What is coming up?
 <br>
 
-We are excited to announce the upcoming [Desktop app](https://free.timeanddate.com/countdown/i7rsdv5e/n5704/cf12/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatTime%20until%20Desktop%20App%20Release!/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2021-05-31T00:00:00), which will allow the code to be injected to the website without a chrome extension! (This will be free)
+We are excited to announce the upcoming [Chrome Extension](https://free.timeanddate.com/countdown/i7rsdv5e/n5704/cf12/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatTime%20until%20Desktop%20App%20Release!/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2021-05-31T00:00:00), which will allow the code to be injected to the website without a 3rd party Chrome Extension! (This will be free)
 <br>
 
 # Download Instructions
