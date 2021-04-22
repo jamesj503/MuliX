@@ -8,7 +8,7 @@ This is the new [Muli.](https://github.com/jamesj503/Muli/releases) I think you 
 # What has Changed in the V10-5 Update?
 <br>
 
-Muli has updated the calendar and email page. These pages have taken a while to edit do to the amount of buttons and drop-downs. Please consider "starring" this repo for announcements on further changes.
+I have tried my best to work on the exam pages. They look cleaner now, the blue buttons are no longer there. Pull an issue if you find any, send the link, and screenshot! Thanks! Please consider "starring" this repo for announcements on further changes.
 <br>
 
 # What is coming up?
