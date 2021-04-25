@@ -15,6 +15,7 @@ We have now introduced our new Chrome Extension! Have a look in our new Release!
 
 [![How to Install a Chrome Extension from GitHub](http://img.youtube.com/vi/aniDeL926mQ/0.jpg)](http://www.youtube.com/watch?v=aniDeL926mQ)
 <br>
+*click above to view the video^*
 
 # Troubleshooting
 
