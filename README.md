@@ -14,17 +14,12 @@ I have tried my best to work on the exam pages. They look cleaner now, the blue 
 # What is coming up?
 <br>
 
-We are excited to announce the upcoming [Chrome Extension](https://free.timeanddate.com/countdown/i7rsdv5e/n5704/cf12/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tatTime%20until%20Desktop%20App%20Release!/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2021-05-31T00:00:00), which will allow the code to be injected to the website without a 3rd party Chrome Extension! (This will be free)
-<br>
+Our Chrome extension has been released. You will see it in a full release soon. This means you no longer have to mess around with any other extensions. (this also works on Microsoft Edge and any other chromium based browser.)
 Firefox users will be able to use our code for the first time soon! All we need to do is change some of the code! Soon, it will be ready!<br>
 # Download Instructions
 <br>
 
-Download the [latest release](https://github.com/jamesj503/Muli/releases) and save it to a convenient folder. If you are inexperienced on Github, download the file with the yellow underline in the image below (it will say .json on it)
-![image](https://user-images.githubusercontent.com/70408059/115570376-ad7d0800-a283-11eb-8961-9c8a65143a33.png)
-Next, download [this](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) Chrome extension, it has to be this one because it's just an export file from the extension. (Firefox is not yet supported) After it installs, open it and press the cog icon on the top right of the pop-up. It will open up the "[User JavaScript and CSS](extension://nbhcbdghjpllgmfilhnhkllmkecfmpld/options.html)" page. Next, go to the fourth tab named "Settings". Next, scroll down to the backup tab. It should look like this:
-![image](https://user-images.githubusercontent.com/70408059/115569121-8a9e2400-a282-11eb-8b24-f5a14af03302.png)
-Press the "upload and apply" button. This will open up your "file explorer" page. Locate the file you downloaded from my Github repo and select that. A popup arning you that it will override data will come up. Press "ok" and it should now work! 
+[![How to Install a Chrome Extension from GitHub](http://img.youtube.com/vi/aniDeL926mQ/0.jpg)](http://www.youtube.com/watch?v=aniDeL926mQ)
 <br>
 
 # Troubleshooting
