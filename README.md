@@ -1,3 +1,4 @@
+[![Licence](https://img.shields.io/badge/Licence-MIT-lightgrey.svg)](https://github.com/jamesj503/Muli/blob/master/LICENSE)
 # Welcome to Muli
 <br>
 
