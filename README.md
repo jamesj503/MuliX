@@ -1,4 +1,6 @@
 [![Licence](https://img.shields.io/badge/Licence-MIT-lightgrey.svg)](https://github.com/jamesj503/Muli/blob/master/LICENSE)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-incompatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Build Status](https://travis-ci.org/jamesj503/Muli.svg?branch=main)](https://travis-ci.org/github/jamesj503/Muli)
 # Welcome to Muli
 <br>
 
