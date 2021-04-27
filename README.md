@@ -28,3 +28,10 @@ We have now introduced our new Chrome Extension! Have a look in our new Release!
 
 <br>
 Unless you are using the old method, there should never be an issue. Please install the Chrome-native extension and run it! Thanks! Keep alert for new updates.
+<br>
+
+# Cloning this Repo via SSH (for devs)
+<br>
+git@github.com:jamesj503/Muli.git
+<br>
+Please give credit, remember my MIT License. Do not edit without approval please!
