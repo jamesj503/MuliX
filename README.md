@@ -7,7 +7,7 @@
 This is the new [Muli.](https://github.com/jamesj503/Muli/releases) I think you will love this new update because so much has changed!
 <br>
 
-# Skyward Integration Coming Soon!
+# Extension now works with both Canvas and Skyward
 <br>
 
 # What has Changed in the V11-6 Update?
