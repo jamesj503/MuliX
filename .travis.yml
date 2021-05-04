@@ -1,0 +1,4 @@
+language: CSS
+rvm:
+ - 12.8
+ - xCSS
