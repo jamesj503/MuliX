@@ -7,6 +7,11 @@
 This is the new [Muli.](https://github.com/jamesj503/Muli/releases) I think you will love this new update because so much has changed!
 <br>
 
+## Found an issue? Fork it!
+<br>
+Thank you for helping me expand muli!
+<br>
+
 # Extension now works with both Canvas and Skyward! ✨🎉
 <br>
 
@@ -35,3 +40,5 @@ Unless you are using the old method, there should never be an issue. Please inst
 git@github.com:jamesj503/Muli.git
 <br>
 Please give credit, remember my MIT License. Do not edit without approval please!
+
+
