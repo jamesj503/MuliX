@@ -1,4 +1,4 @@
-language: CSS
+language: ruby
 rvm:
  - 12.8
- - xCSS
+ - jruby
