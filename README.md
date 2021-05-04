@@ -1,6 +1,6 @@
-[![Licence](https://img.shields.io/badge/Licence-MIT-lightgrey.svg)](https://github.com/jamesj503/Muli/blob/master/LICENSE)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-incompatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Build Status](https://travis-ci.org/jamesj503/Muli.svg?branch=main)](https://travis-ci.org/github/jamesj503/Muli)
+[![Downloads](https://img.shields.io/github/v/release/jamesj503/muli?color=bl&include_prereleases&label=latest%20release&style=plastic)
+[![Downloadable](https://img.shields.io/badge/downloads-1.2K-orange)
 # Welcome to Muli👏 - A Chrome Extension for Canvas Users!
 <br>
 
