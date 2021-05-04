@@ -1,6 +1,6 @@
 [![Build status](https://travis-ci.org/mathiasbynens/he.svg?branch=master)](https://travis-ci.org/jamesj503/muli)
-[![Downloads](https://travis-ci.com/github/jamesj503/Muli)](https://img.shields.io/github/v/release/jamesj503/muli?color=bl&include_prereleases&label=latest%20release&style=plastic)
-[![Downloadable](https://github.com/jamesj503/Muli)](https://img.shields.io/badge/downloads-1.2K-orange)
+[![Release Number](https://travis-ci.com/github/jamesj503/Muli)](https://img.shields.io/github/v/release/jamesj503/muli?color=bl&include_prereleases&label=latest%20release&style=plastic)
+[![Amount of Downloads](https://github.com/jamesj503/Muli)](https://img.shields.io/badge/downloads-1.2K-orange)
 # Welcome to Muli👏 - A Chrome Extension for Canvas Users!
 <br>
 
