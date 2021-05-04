@@ -2,7 +2,3 @@ language: node_js
 node_js:
   - stable
 install: skip
-script: 
-- bundle exec thor build
-- bundle exec rake build
-- bundle exec rake builddoc
