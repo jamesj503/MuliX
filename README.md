@@ -1,3 +1,4 @@
+*see my [gist!](https://gist.github.com/jamesj503/19e07bd3bd72c2b04786f620c8cbbf5c)*
 [![Build status](https://travis-ci.org/mathiasbynens/he.svg?branch=master)](https://travis-ci.org/jamesj503/muli)
 [![Release Number](https://travis-ci.com/github/jamesj503/Muli)](https://img.shields.io/github/v/release/jamesj503/muli?color=bl&include_prereleases&label=latest%20release&style=plastic)
 [![Amount of Downloads](https://github.com/jamesj503/Muli)](https://img.shields.io/badge/downloads-1.2K-orange)
