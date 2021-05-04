@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+[![Licence](https://img.shields.io/badge/Licence-MIT-lightgrey.svg)](https://github.com/jamesj503/Muli/blob/master/LICENSE)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-incompatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Build Status](https://travis-ci.org/jamesj503/Muli.svg?branch=main)](https://travis-ci.org/github/jamesj503/Muli)
+## Welcome to Muli
 
-You can use the [editor on GitHub](https://github.com/jamesj503/Muli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This will soon be the Muli webpage. We are currently keeping it under construction, but hopefully, it will be here soon! For now, you can download Muli [here✨](https://github.com/jamesj503/Muli/releases/tag/Rel18%3BMuliV12-7).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CSS is a major part in Muli
+<br>
+CSS is a styling code language where you can change the look of the website. That's all. Please star the repo, since it took a long time to make!
 
 ```markdown
-Syntax highlighted code block
+div.fOyUs_bGBk.fOyUs_dBtH {
+  text-transform: lowercase;
+  background-color: #FFFFFF;
+  color: #000000;
+}
 
-# Header 1
-## Header 2
-### Header 3
+label.bgKsu_blJt {
+  text-transform: lowercase;
+  text-align: right;
+}
 
-- Bulleted
-- List
+span.fCrpb_bGBk.fCrpb_egrg {
+  text-align: right;
+}
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+div.enRcg_bGBk.enRcg_cMDj.enRcg_pEgL.enRcg_eQnG {
+  font-weight: 300;
+  font-style: normal;
+  text-decoration: underline;
+  text-transform: lowercase;
+  text-align: right;
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [my read.md file](https://github.com/jamesj503/Muli#readme) in my Github repo!
 
-### Jekyll Themes
+### Keep coming back here to see the newest updates!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamesj503/Muli/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Thank you so much!!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*current build: V12.8*
