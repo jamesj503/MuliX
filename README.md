@@ -17,10 +17,10 @@ Thank you for helping me expand muli!
 # Extension now works with both Canvas and Skyward! ✨🎉
 <br>
 
-# What has Changed in the V11-6 Update✨?
+# What has Changed in the Summer Update✨?
 <br>
 
-We have now introduced our new Chrome Extension! Have a look in our new Release!
+We have blocked all Notifs and the website!
 <br>
 
 # Download Instructions ⬇👇⬇
