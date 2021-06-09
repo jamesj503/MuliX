@@ -3,7 +3,8 @@
 If the build is failing^^^ that doesn't mean Muli doesn't work. Muli works fine!
 <br>
 
-# Welcome to Muli👏 - A Chrome Extension for Canvas Users!
+# Welcome to Muli👏 - A Chrome Extension for Canvas Users! <br>
+Canvas app coming soon!!!
 <br>
 
 This is the new [Muli.](https://github.com/jamesj503/Muli/releases) I think you will love this new update because so much has changed!
