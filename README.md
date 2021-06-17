@@ -1,4 +1,5 @@
 *see my [gist!](https://gist.github.com/jamesj503/19e07bd3bd72c2b04786f620c8cbbf5c)*<br>
+*and my latest [gist revisions!](https://gist.github.com/jamesj503/19e07bd3bd72c2b04786f620c8cbbf5c/revisions)*<br>
 [![Build status](https://travis-ci.org/mathiasbynens/he.svg?branch=master)](https://travis-ci.com/jamesj503/muli) <br>
 If the build is failing^^^ that doesn't mean Muli doesn't work. Muli works fine!
 <br>
