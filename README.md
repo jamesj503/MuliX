@@ -4,7 +4,7 @@
 If the build is failing^^^ that doesn't mean Muli doesn't work. Muli works fine!
 <br>
 
-**Emergency Patch for the Application is coming soon. I would advise against use for now.** <br>
+**Please remember to star the Repo.** <br>
 
 # Welcome to Muli👏 - A Chrome Extension for Canvas Users! <br>
 Canvas app coming soon!!!
