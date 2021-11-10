@@ -1,0 +1,275 @@
+-- Shorter code for easier and faster download
+-- Faster page loading
+-- Easy download (look at main page (read.md) for instructions
+-- Refer to the Wiki for help
+
+h1.ic-Dashboard-header__title {
+  font-family: Calibri;
+  font-size: 36px;
+  line-height: 24px;
+  font-weight: 100;
+  font-style: normal;
+  text-transform: lowercase;
+  text-align: left;
+}
+
+span.StickyButton-styles__layout {
+  display: none;
+}
+
+div.Day-styles__secondary {
+  text-transform: lowercase;
+  font-family: Calibri;
+  font-weight: 100;
+  font-style: normal;
+}
+
+div.enRcg_bGBk.enRcg_cMDj.enRcg_bdMA.enRcg_eQnG {
+  text-transform: lowercase;
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+}
+
+span.Grouping-styles__title {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+  font-size: 18px;
+}
+
+div.PlannerItem-styles__root.planner-item {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+a.fOyUs_bGBk.eHiXd_bGBk.eHiXd_brAJ.eHiXd_ycrn.eHiXd_bNlk.eHiXd_cuTS {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+span.enRcg_bGBk.enRcg_dfBC.enRcg_eQnG.enRcg_bLsb {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+  font-size: 14px;
+}
+
+span.MlJlv_btWg {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+div.ic-Layout-contentMain {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+  text-decoration: none;
+}
+
+li.fOyUs_bGBk.jpyTq_bGBk.jpyTq_ycrn.jpyTq_bCcs {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+  font-size: 18px;
+}
+
+th.fc-day-header.fc-widget-header.fc-sun {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+th.fc-day-header.fc-widget-header.fc-mon {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+th.fc-day-header.fc-widget-header.fc-tue {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+td.fc-day-number.fc-wed.fc-today.fc-state-highlight {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+  text-decoration: underline;
+}
+
+button.btn.calendar-button {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+button.btn {
+  font-family: Calibri;
+  font-weight: 100;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+th.fc-day-header.fc-widget-header.fc-wed {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+th.fc-day-header.fc-widget-header.fc-thu {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+th.fc-day-header.fc-widget-header.fc-fri {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+th.fc-day-header.fc-widget-header.fc-sat {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+div.ic-app-main-content__secondary {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+td.fc-day-number.fc-sun.fc-past {
+  text-decoration: line-through;
+}
+
+td.fc-day-number.fc-mon.fc-past {
+  text-decoration: line-through;
+}
+
+td.fc-day-number.fc-tue.fc-past {
+  text-decoration: line-through;
+}
+
+td.fc-day-number.fc-wed.fc-past {
+  text-decoration: line-through;
+}
+
+td.fc-day-number.fc-thu.fc-past {
+  text-decoration: line-through;
+}
+
+td.fc-day-number.fc-fri.fc-past {
+  text-decoration: line-through;
+}
+
+td.fc-day-number.fc-sat.fc-past {
+  text-decoration: line-through;
+}
+
+span.element_toggler {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+button.dialog_opener.Button.Button--link {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+#conversation_filter_select {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+h2.fOyUs_bGBk.blnAQ_bGBk.blnAQ_dnfM.blnAQ_drOs {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+a.fOyUs_bGBk.fbyHH_bGBk.fbyHH_bSMN {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+span.enRcg_bGBk.enRcg_ycrn.enRcg_eQnG {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+button.fOyUs_bGBk.fOyUs_fKyb.fOyUs_cuDs.fOyUs_cBHs.fOyUs_eWbJ.fOyUs_fmDy.fOyUs_eeJl.fOyUs_cBtr.fOyUs_fuTR.fOyUs_cnfU.fQfxa_bGBk {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+span.dsJBj_eYKj {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+div.enRcg_bGBk.enRcg_dfBC.enRcg_dsRi.enRcg_dfDs.enRcg_eQnG {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+h3.fOyUs_bGBk.blnAQ_bGBk.blnAQ_dnfM.blnAQ_drOs {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+div.enRcg_bGBk.enRcg_doqw.enRcg_eQnG {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
+
+span.enRcg_bGBk.enRcg_doqw.enRcg_bdMA.enRcg_dsRi.enRcg_bDjL.enRcg_eQnG {
+  font-family: Calibri;
+  font-weight: 300;
+  font-style: normal;
+  text-transform: lowercase;
+}
