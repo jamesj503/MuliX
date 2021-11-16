@@ -3,7 +3,7 @@
 
 ## Welcome to Muli 👋
 
-This will soon be the Muli webpage. We are currently keeping it under construction, but hopefully, it will be here soon! For now, you can download Muli [here✨](https://github.com/jamesj503/Muli/releases/tag/Rel18%3BMuliV12-7).
+This will soon be the Muli webpage. We are currently keeping it under construction, but hopefully, it will be here soon! For now, you can see the official releases of Muli [here✨](https://github.com/jamesj503/Muli/releases/tag/Rel18%3BMuliV12-7). If you are worried about downloading an unstable (new) version, download the newest certified stable version [here✨](https://github.com/jamesj503/Muli/releases/tag/v27)
 
 ### CSS is a major part in Muli 👨‍💻
 
@@ -41,4 +41,5 @@ For more details see [my read.md file](https://github.com/jamesj503/Muli#readme)
 
 Thank you so much!!
 
-*current build: V13.8*
+*current build: MuliX1*<br>
+*latest page update: 11/15/2021*<br>
