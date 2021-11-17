@@ -41,5 +41,5 @@ For more details see [my read.md file](https://github.com/jamesj503/Muli#readme)
 
 Thank you so much!!
 
-*current build: MuliX2*<br>
+*current build: MuliX3*<br>
 *latest page update: 11/16/2021*<br>
