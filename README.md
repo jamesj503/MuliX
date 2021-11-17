@@ -10,7 +10,7 @@
 Canvas app coming soon!!!
 <br>
 
-This is the new [Muli.](https://github.com/jamesj503/Muli/releases) I think you will love this new update because so much has changed!
+This is the new [MuliX.](https://github.com/jamesj503/MuliX/releases/latest) I think you will love this new update because so much has changed!
 <br>
 
 ## Found an issue? Fork it!
@@ -21,10 +21,10 @@ Thank you for helping me expand muli!
 # Extension now works with both Canvas and Skyward! ✨🎉
 <br>
 
-# What has Changed in the Summer Update✨?
+# What has Changed in the Christmas Update✨?
 <br>
-
-We have blocked all Notifs and the website!
+Nothing major has changed... YET! I am working on making the websites seem more "christmasy" by adding a christmas sidebar and background.<br>
+*^coming soon!^* 😶
 <br>
 
 # Download Instructions ⬇👇⬇
