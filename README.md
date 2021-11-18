@@ -1,8 +1,8 @@
 [![Build status](https://travis-ci.org/mathiasbynens/he.svg?branch=master)](https://travis-ci.com/jamesj503/muli) <br>
 *latest update:11/17/2021*<br>
-**Build Name**: MuliX4
-*see my [gist!](https://gist.github.com/jamesj503/19e07bd3bd72c2b04786f620c8cbbf5c)*<br>
-*and my latest [gist revisions!](https://gist.github.com/jamesj503/19e07bd3bd72c2b04786f620c8cbbf5c/revisions)*<br>
+**Build Name**: MuliX4 <br>
+*see my [gist!](https://gist.github.com/jamesj503/141bacf6b61372225617d1889c8d8096)*<br>
+*and my latest [gist revisions!](https://gist.github.com/jamesj503/141bacf6b61372225617d1889c8d8096/revisions)*<br>
 <br>
 
 **Please remember to star the Repo.** <br>
