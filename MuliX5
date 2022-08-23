@@ -1,3 +1,5 @@
+// copyright james johnston 2022
+
 h1.ic-Dashboard-header__title {
   font-family: Calibri;
   font-size: 36px;
