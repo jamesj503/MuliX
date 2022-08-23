@@ -42,5 +42,5 @@ For more details see [my read.md file](https://github.com/jamesj503/Muli#readme)
 Thank you so much!!
 
 *current build: MuliX4*<br>
-*latest page update: 11/17/2021*<br>
+*latest page update: 08/22/2022*<br>
 *thank you all!*
