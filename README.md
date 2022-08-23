@@ -1,5 +1,5 @@
 [![Build status](https://travis-ci.org/mathiasbynens/he.svg?branch=master)](https://travis-ci.com/jamesj503/muli) <br>
-*latest update:11/17/2021*<br>
+*latest update:08/22/2022*<br>
 **Build Name**: MuliX4 <br>
 *see my [gist!](https://gist.github.com/jamesj503/141bacf6b61372225617d1889c8d8096)*<br>
 *and my latest [gist revisions!](https://gist.github.com/jamesj503/141bacf6b61372225617d1889c8d8096/revisions)*<br>
@@ -11,7 +11,7 @@
 Canvas app coming soon!!!
 <br>
 
-This is the new [MuliX.](https://github.com/jamesj503/MuliX/releases/latest) I think you will love this new update because so much has changed!
+This is the new [MuliX5.](https://github.com/jamesj503/MuliX/releases/latest) I think you will love this new update because so much has changed!
 <br>
 
 ## Found an issue? Fork it!
@@ -19,13 +19,7 @@ This is the new [MuliX.](https://github.com/jamesj503/MuliX/releases/latest) I t
 Thank you for helping me expand muli!
 <br>
 
-# Extension now works with both Canvas and Skyward! ✨🎉
-<br>
-
-# What has Changed in the Christmas Update✨?
-<br>
-Nothing major has changed... YET! I am working on making the websites seem more "christmasy" by adding a christmas sidebar and background.<br>
-*^coming soon!^* 😶
+# Extension now works with both Canvas and Skyward (more apps coming soon)! ✨🎉
 <br>
 
 # Download Instructions ⬇👇⬇
@@ -39,7 +33,7 @@ Nothing major has changed... YET! I am working on making the websites seem more 
 # Troubleshooting 🔫
 
 <br>
-Unless you are using the old method, there should never be an issue. Please install the Chrome-native extension and run it! Thanks! Keep alert for new updates.
+Unless you are using the old method, there should never be an issue. Please install the Chrome-native extension and run it! Thanks! Keep alert for new updates. Please note that Chrome extensions now work on Microsoft Edge.
 <br>
 
 # Cloning this Repo via SSH (for devs) 🎁
